@@ -6,6 +6,9 @@ https://salmer.github.io/CppDeveloperRoadmap/Russian/
 
 !!! https://www.learncpp.com/
 
+https://proglib.io/p/cpp-advanced
+https://proglib.io/p/cpp-17
+
 C++FAQ
 https://isocpp.org/faq
 
