@@ -13,6 +13,10 @@
 - Scrum
 - Проектирование баз данных
 - ETL
+- Oracle BI, Power BI
+- Git
+- владение инструментами Task или JasperReports
+- опыт использования JIRA, Confluence
 
 
 #### PL/SQL:
