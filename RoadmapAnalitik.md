@@ -8,9 +8,11 @@
 #### SQL:
 - MYSQL
 #### Column-oriented database management system (DBMS) for online analytical processing of queries (OLAP)
-- ClickHouse
+- [ClickHouse](https://clickhouse.com/docs/ru/introduction/distinctive-features)
 
-https://career.habr.com/vacancies/1000111892
+
+## Ваканции:
+- https://career.habr.com/vacancies/1000111892
 
 ### Что предстоит:
 
