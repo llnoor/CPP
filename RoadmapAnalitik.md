@@ -5,6 +5,12 @@
 - Анализ требований
 - Системная интеграция
 - ER-диаграммы
+- REST
+- SOAP 
+- Scrum
+- Проектирование баз данных
+
+
 #### SQL:
 - MYSQL
 #### Column-oriented database management system (DBMS) for online analytical processing of queries (OLAP)
