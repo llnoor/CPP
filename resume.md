@@ -1,0 +1,2 @@
+- https://clubtk.ru/forms/upravleniye-personalom/obrazets-soprovoditelnogo-pisma-k-rezyume
+- https://journal.tinkoff.ru/guide/covering-letter/
