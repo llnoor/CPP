@@ -5,7 +5,10 @@
 - Анализ требований
 - Системная интеграция
 - ER-диаграммы
-- SQL
+#### SQL:
+- MYSQL
+#### Column-oriented database management system (DBMS) for online analytical processing of queries (OLAP)
+- ClickHouse
 
 https://career.habr.com/vacancies/1000111892
 
