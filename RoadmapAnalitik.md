@@ -12,8 +12,13 @@
 - ETL
 
 
-#### SQL:
-- MYSQL
+#### PL/SQL:
+- MySql
+- PostgreSQL
+- MS SQL Server
+- СУБД Oracle (PL/SQL)
+- Т-SQ
+
 #### Column-oriented database management system (DBMS) for online analytical processing of queries (OLAP)
 - [ClickHouse](https://clickhouse.com/docs/ru/introduction/distinctive-features)
 
