@@ -1,14 +1,45 @@
-# Системный аналитик
+# Карта развития системного аналитика || IT system analyst roadmap
 ## junior
 
 https://ruzil.ru/
 
-|Что тербуется?|Освоен |Детали|
-|----------|-----------|------------|
-|Нотация|-----------|------------|
-|Нотация|-----------|------------|
-
-
+|Что тербуется?|Что тербуется?|Освоен |Детали|
+|----------|-----------|-----------|------------|
+|**Software**|---|---|---|
+|---|Task Trackers - Jira|---|---|
+|---|Collaboration Systems - Confluence|---|---|
+|---|Modeling Software - Visio|---|---|
+|**Software requirements**|---|---|---|
+|---|User Story|---|---|
+|---|Use Cases|---|---|
+|---|UX/UI|---|---|
+|**Dev methods**|---|---|---|
+|---|Agile (Scrum, Kanban, XP)|---|---|
+|---|Waterfall|---|---|
+|**Modeling languages**|---|---|---|
+|---|BPMN|---|---|
+|---|UML|---|---|
+|---|ER-model|---|---|
+|**Architecture**|---|---|---|
+|---|REST|---|---|
+|---|SOA|---|---|
+|**Interface definition languages**|---|---|---|
+|---|XML|---|---|
+|---|HTML|---|---|
+|---|JSON|---|---|
+|**Databases**|---|---|---|
+|---|SQL (MySql, PostgreSQL)|---|---|
+|---|NoSQL|---|---|
+|---|COBC/JDOC|---|---|
+|**Protocols**|---|---|---|
+|---|SOAP|---|---|
+|---|HTTP/HTTPS|---|---|
+|---|FTP|---|---|
+|**Tools**|---|---|---|
+|---|VCS (Git)|---|---|
+|---|Software IDE|---|---|
+|---|SQL IDE|---|---|
+|---|API Testing Tools (Postman, SOAP UI)|---|---|
 
 
 Есть опыт создания ТЗ TIEN
