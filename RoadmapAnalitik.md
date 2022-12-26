@@ -25,6 +25,7 @@ https://ruzil.ru/
 - Git
 - владение инструментами Task или JasperReports
 - опыт использования JIRA, Confluence
+- Знание основ Хаббард менеджмента
 
 
 #### PL/SQL:
