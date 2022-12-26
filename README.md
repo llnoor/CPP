@@ -3,6 +3,7 @@ My roadmap C++
 
 Паттерны:
 https://habr.com/ru/post/210288/
+!!! https://refactoring.guru/ru/design-patterns/cpp
 анти-паттерны:
 https://habr.com/ru/post/59005/
 
