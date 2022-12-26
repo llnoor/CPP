@@ -1,6 +1,11 @@
 # Roadmap
 My roadmap C++
 
+Паттерны:
+https://habr.com/ru/post/210288/
+анти-паттерны:
+https://habr.com/ru/post/59005/
+
 https://salmer.github.io/CppDeveloperRoadmap/Russian/
 В простоте кроется великая сила! 
 
