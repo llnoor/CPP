@@ -10,19 +10,20 @@ Git:
 - [Двоичные деревья поиска: начальные сведения](http://algolist.ru/ds/btree.php)
 
 
-Паттерны:
-https://habr.com/ru/post/210288/
-!!! https://refactoring.guru/ru/design-patterns/cpp
-анти-паттерны:
-https://habr.com/ru/post/59005/
+#### Паттерны:
+- http://cpp-reference.ru/patterns/introduction/
+- https://habr.com/ru/post/210288/
+- !!! https://refactoring.guru/ru/design-patterns/cpp
+#### анти-паттерны:
+- https://habr.com/ru/post/59005/
 
 https://salmer.github.io/CppDeveloperRoadmap/Russian/
-В простоте кроется великая сила! 
+#### В простоте кроется великая сила! 
 
-!!! https://www.learncpp.com/
-
-https://proglib.io/p/cpp-advanced
-https://proglib.io/p/cpp-17
+- !!! https://www.learncpp.com/
+- 
+- https://proglib.io/p/cpp-advanced
+- https://proglib.io/p/cpp-17
 
 C++FAQ
 https://isocpp.org/faq
