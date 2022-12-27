@@ -4,6 +4,7 @@ My roadmap C++
 
 Git:
 - [Как оформить серию коммитов Git, чтобы её приняли в любой проект](https://habr.com/ru/company/vk/blog/572560/)
+- [Как оформить профиль на GitHub](https://dou.ua/lenta/articles/github-profile-for-beginners/)
 
 Алгоритмы и структуры
 - [Двоичные деревья поиска: начальные сведения](http://algolist.ru/ds/btree.php)
