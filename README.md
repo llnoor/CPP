@@ -11,6 +11,7 @@ Git:
 
 
 #### Паттерны:
+- https://proglib.io/p/learn-oop-patterns
 - http://cpp-reference.ru/patterns/introduction/
 - https://habr.com/ru/post/210288/
 - !!! https://refactoring.guru/ru/design-patterns/cpp
