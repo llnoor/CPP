@@ -39,57 +39,56 @@ Dive into C++11/14 https://www.youtube.com/playlist?list=PLTEcWGdSiQenl4YRPvSqW7
 
 
 Теперь рассмотрим инструменты, которые вам пригодятся в работе, и на которые стоит обратить внимание в первую очередь:
-
-STD
-BOOST
-Коллекция библиотек Portable Components (POCO) для упрощения создания сетевых кроссплатформенных приложений.
-Фреймворк Qt.
-OpenGL
+- STD
+- BOOST
+- Коллекция библиотек Portable Components (POCO) для упрощения создания сетевых кроссплатформенных приложений.
+- Фреймворк Qt.
+- OpenGL
 
 
 Что я знаю из этого списка (https://github.com/fffaraz/awesome-cpp):
 
 Текстовые редакторы
-Visual Studio Code
-Notepad++
+- Visual Studio Code
+- Notepad++
 
 IDE:
-Microsoft Visual Studio IDE
-Qt Creator IDE
+- Microsoft Visual Studio IDE
+- Qt Creator IDE
 
 системы сборки:
-Cmake
-Makefile
-vcpkg (не знаю, но это существенно упрощает сборку)
+- Cmake
+- Makefile
+- vcpkg (не знаю, но это существенно упрощает сборку)
 
 Анализаторы кода:
-Cpp Check
-Valgrind
+- Cpp Check
+- Valgrind
 
 GUI:
-QWT https://qwt.sourceforge.io/
+- QWT https://qwt.sourceforge.io/
 
 Video:
-FFmpeg 
+- FFmpeg 
 
 Учить:
-dlib
-boost
-https://github.com/Microsoft/vcpkg
+- dlib
+- boost
+- https://github.com/Microsoft/vcpkg
 
 
 json
-https://webref.ru/dev/json-tutorial/json-with-http-jquery
+- https://webref.ru/dev/json-tutorial/json-with-http-jquery
 
 jquery
-https://webref.ru/dev/jqfundamentals/jquery-basics
+- https://webref.ru/dev/jqfundamentals/jquery-basics
 
 Обязательные знания:
-C++ (не ниже 14 стандарта);
-структуры и алгоритмы данных (устройство, вычислительная сложность);
-управление памятью;
-линейная алгебра (матрицы, векторы, операции над ними).
-Будет плюсом:
-многопоточность, примитивы синхронизации;
-низкоуровневые оптимизации: cache-friendly код, SIMD;
-знание принципов SOLID, GRASP, KISS, YAGNI.
+- C++ (не ниже 14 стандарта);
+- структуры и алгоритмы данных (устройство, вычислительная сложность);
+- управление памятью;
+- линейная алгебра (матрицы, векторы, операции над ними).
+- Будет плюсом:
+- многопоточность, примитивы синхронизации;
+- низкоуровневые оптимизации: cache-friendly код, SIMD;
+- знание принципов SOLID, GRASP, KISS, YAGNI.
