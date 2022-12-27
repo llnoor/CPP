@@ -1,6 +1,11 @@
 # Roadmap
 My roadmap C++
 
+
+Алгоритмы и структуры
+- [Двоичные деревья поиска: начальные сведения](http://algolist.ru/ds/btree.php)
+
+
 Паттерны:
 https://habr.com/ru/post/210288/
 !!! https://refactoring.guru/ru/design-patterns/cpp
