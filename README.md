@@ -2,6 +2,7 @@
 My roadmap C++
 
 
+
 Git:
 - [Как оформить серию коммитов Git, чтобы её приняли в любой проект](https://habr.com/ru/company/vk/blog/572560/)
 - [Как оформить профиль на GitHub](https://dou.ua/lenta/articles/github-profile-for-beginners/)
@@ -76,7 +77,6 @@ Video:
 - dlib
 - boost
 - https://github.com/Microsoft/vcpkg
-
 
 json
 - https://webref.ru/dev/json-tutorial/json-with-http-jquery
