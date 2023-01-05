@@ -13,3 +13,4 @@
 
 ### Kotlin (sorry)
 - https://skillbox.ru/media/code/yazyk-programmirovaniya-kotlin/
+- https://habr.com/ru/post/350746/
