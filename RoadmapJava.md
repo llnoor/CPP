@@ -14,3 +14,9 @@
 ### Kotlin (sorry)
 - https://skillbox.ru/media/code/yazyk-programmirovaniya-kotlin/
 - https://habr.com/ru/post/350746/
+
+### Flutter 
+- https://habr.com/ru/post/481326/
+
+### React Native
+- https://habr.com/ru/post/596183/
