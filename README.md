@@ -16,6 +16,7 @@ Git:
 - http://cpp-reference.ru/patterns/introduction/
 - https://habr.com/ru/post/210288/
 - !!! https://refactoring.guru/ru/design-patterns/cpp
+- паттерны проектирования: MVC, MVP и MVVM.
 #### анти-паттерны:
 - https://habr.com/ru/post/59005/
 
