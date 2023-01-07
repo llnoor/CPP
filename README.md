@@ -10,6 +10,7 @@ Git:
 
 Алгоритмы и структуры
 - [Двоичные деревья поиска: начальные сведения](http://algolist.ru/ds/btree.php)
+- [**Книги**](https://techrocks.ru/2020/07/09/top-7-books-about-algorithms-in-russian/)
 
 
 #### Паттерны:
