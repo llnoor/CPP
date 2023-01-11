@@ -7,6 +7,8 @@
 - Effective Java , Second Edition . Joshua Bloch. Чем-то напоминает книги «Эффективное использование C++». По большому счету, чтобы понять Java после C++ этого полностью хватает.
 - https://javarush.com/groups/posts/2518-chto-chitatjh-v-2020-godu-podborka-luchshikh-novihkh-knig-dlja-java-razrabotchikov
 
+### Algorithms
+- [GrokkingAlgorithms](https://github.com/mduisenov/GrokkingAlgorithms/tree/master/01_BinarySearch/src)
 
 ### YouTube-каналы, блоги и подкасты для Java-программистов
 - https://javarush.com/groups/posts/2434-podborka-youtube-kanalih-blogi-i-podkastih-dlja-java-programmistov
