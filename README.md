@@ -9,6 +9,7 @@ My roadmap C++
 
 План на неделю
 - Бинарный поиск [ready](https://github.com/llnoor/algorithms/tree/main/binary_search/c)
+- Когда используется массив, когда списки?
 - Бинарные деревья поиска
 
 
