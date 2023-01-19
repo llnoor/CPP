@@ -2,6 +2,8 @@
 [Roadmaps](https://roadmap.sh/)
 My roadmap C++
 
+- [1](https://medium.com/@qianxinyue0805/the-ultimate-c-self-learning-roadmap-with-detailed-materials-and-interview-tips-42c3be89ea3f)
+- [2](https://www.modernescpp.com/index.php/c-core-guidelines-rules-to-smart-pointers)
 
 План на месяц:
 - Пройти основные алгоритмы (хотя бы 5 глав книги грокаем алгоритмы)
